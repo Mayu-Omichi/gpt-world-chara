@@ -7,6 +7,7 @@ directory = os.getenv('DIRECTORY') #←gpt-world-charaのディレクトリ(.env
 openai_api_key = os.getenv('OPEAI_API_KEY') #←ご自身のapiキーを入れる(.envファイルから)
 google_json_pass=os.getenv('GOOGLE_JSON_PASS')#google jsonファイルのパス
 
+print(directory)
 # フィラーの音声ファイルパス
 filepath = directory+'/filler'
 # システム音声ファイルパス
