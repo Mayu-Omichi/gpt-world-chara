@@ -4,3 +4,4 @@ GPTでキャラの物語(バックストーリー)を生成し、それをもと
 .env_sampleは.envのサンプルです。
 .envファイルを別で作成し、ディレクトリ情報やAPI情報などを記入し、gitignoreファイルに.envを除外するように書き込んでください。
 https://qiita.com/shown_it/items/2b85434e4e2658c484f4
+https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4
